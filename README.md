@@ -9,7 +9,7 @@
 
 ## 🚀 À propos de moi
 
-- 🎓 Étudiante autodidacte en développement web  
+- 🎓 Étudiante autodidacte en développement web / étudiante à La Capsule
 - 🌱 J’aime découvrir de nouvelles technos & frameworks  
 - ⚙️ Stack actuelle : JavaScript, React, Symfony, PHP, API REST  
 - 🌈 Passionnée par le code clean, le design et les défis tech  
